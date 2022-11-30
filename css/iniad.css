@@ -8,6 +8,20 @@ h1 {
   text-align: center;
 }
 
+body > ul{
+  font-size: 18px;
+  color: #000000;
+}
+
+h2 {
+  font-size: 20px;
+  color: #000000;
+  border-bottom: solid 1px #cc0000;
+}
+
+
+}
+
 h2 {
   font-size: 20px;
   color: #000000;
