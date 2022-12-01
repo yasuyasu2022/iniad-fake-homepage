@@ -1,10 +1,11 @@
 body {
   background-color: #794c13;
-  color: #FE4261;
+  color: #000000;
+  font-size: 20px;
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 28px;
   text-align: center;
 }
 
@@ -20,7 +21,7 @@ h2 {
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 24px;
   padding-left: 4px;
   border-left: solid 4px #cc0000;
 }
@@ -28,16 +29,18 @@ h3 {
 #schedule {
   padding: 10px 20px 10px 20px;
   background-color: #9933ff;
+  margin: 10px;
+  border: solid 4px #000000;
 }
 
 .iniad {
-  color: #00cc00;
+  color: #000ecc;
 }
 
 .time {
   font-weight: bold;
   color: #cc0000;
-  font-size: 30px;
+  font-size: 26px;
 }
 
 #iniad {
