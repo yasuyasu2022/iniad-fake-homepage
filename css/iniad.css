@@ -24,6 +24,8 @@ h3 {
   font-size: 24px;
   padding-left: 4px;
   border-left: solid 4px #cc0000;
+  background-color: #43a32bb4;
+  color: #ffffff;
 }
 
 #schedule {
@@ -62,6 +64,6 @@ th{
   color: #ffffff;
 }
 td{
-  background-color: #3414e79c;
+  background-color: #ad16dbbb;
   color: #ffffff;
 }
