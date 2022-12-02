@@ -28,7 +28,6 @@ h3 {
 
 #schedule {
   padding: 10px 20px 10px 20px;
-  background-color: #e0ff3313;
   margin: 10px;
   border: solid 4px #000000;
 }
@@ -49,11 +48,20 @@ h3 {
   background-color: #000000;
 }
 
-##iniad-img {
+#iniad-img {
   width: 50%;
   height: 50%;
 }
 
 header{
   background-color: #000000;
+}
+
+th{
+  background-color: #000000;
+  color: #ffffff;
+}
+td{
+  background-color: #3414e79c;
+  color: #ffffff;
 }
