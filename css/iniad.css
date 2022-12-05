@@ -53,6 +53,7 @@ h3 {
 #iniad-img {
   width: 50%;
   height: 50%;
+  background-repeat: no-repeat;
 }
 
 header{
